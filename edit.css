@@ -1,27 +1,30 @@
 .edit .controller.ds4 {
-    background: url(https://schoettner.github.io/skins/base-custom.png);
+    background: url(https://delizo10.github.io/customds4.png);
+}
+
+
+.controller.edit {
+    background: url(https://delizo10.github.io/customds4.png);
+}
+
+
+.edit .face .ds4 {
+    background: url(https://delizo10.github.io/skins/customarrows.png);
 }
 
 
 .edit .face {
     position: absolute;
-    background: url(https://delizo10.github.io/svg/customarrows.svgz);
+    background: url(https://delizo10.github.io/skins/customarrows.png);
+}
+
+
+.edit .stick .ds4 {
+    background: url(https://delizo10.github.io/skins/customsticks.png);
 }
 
 
 .edit .stick {
     position: absolute;
-    background: url(https://delizo10.github.io/svg/customsticks.svgz);
-}
-
-
-.edit .button {
-    position: absolute;
-    background: url(https://delizo10.github.io/svg/custombuttons.svgz);
-}
-
-
-.edit .bumper {
-    position: absolute;
-    background: url(ps4-white-assets/bumper.svgz);
+    background: url(https://delizo10.github.io/skins/customsticks.png);
 }
