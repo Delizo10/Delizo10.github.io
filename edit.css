@@ -1,10 +1,14 @@
 .edit .controller.ds4 {
-    background: url(https://delizo10.github.io/customds4.png);
+    background: url(ps4-assets/base.svgz);
+    height: 598px;
+    width: 806px;
 }
 
 
 .controller.edit {
-    background: url(https://delizo10.github.io/customds4.png);
+    background: url(ps4-assets/base.svgz);
+    height: 598px;
+    width: 806px;
 }
 
 
