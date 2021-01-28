@@ -1,4 +1,4 @@
-.edit .controller.ds4 {
+.edit .controller.ds4.white {
     background: url(https://schoettner.github.io/skins/base-custom.png);
 }
 
@@ -8,18 +8,18 @@
 }
 
 
-.edit .face .ds4 {
-    background: url(https://schoettner.github.io/skins/dpad-custom.png);
+.edit .face .ds4.white {
+    background: url(https://delizo10.github.io/svg/customarrows.svgz);
 }
 
 
 .edit .face {
     position: absolute;
-    background: url(https://schoettner.github.io/skins/dpad-custom.png);
+    background: url(https://delizo10.github.io/svg/customarrows.svgz);
 }
 
 
-.edit .stick .ds4 {
+.edit .stick .ds4.white {
     background: url(https://delizo10.github.io/svg/customsticks.svgz);
 }
 
