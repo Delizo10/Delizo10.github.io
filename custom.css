@@ -1,6 +1,6 @@
 /*DS4 Controller Styling*/
 .controller.ds4 {
-    background: url(skins/customds4.png);
+    background: url(customds4.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
