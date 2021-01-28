@@ -1,14 +1,12 @@
 .edit .controller.ds4 {
     background: url(ps4-assets/base.svgz);
-    height: 598px;
-    width: 806px;
+    background-size:contain;
 }
 
 
 .controller.edit {
     background: url(ps4-assets/base.svgz);
-    height: 598px;
-    width: 806px;
+    background-size:contain;
 }
 
 
